@@ -1,18 +1,19 @@
 
-# Portfolio page
-
-This is my portfolio site, where I show how I create and develop my attributes and skills in programming but also introduce myself.
+# Hi, I'm Przemek! 👋
 
 
-## Tech Stack
+## 🛠 Skills
+ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
 
-**Client:** React, Routes, Axios, Toastify, CSS Components, AOS Animated
+Flutter and dart
+## 🚀 About Me
+I am fullstack developer. I can create visible, usable and more interactive website with attractive animations. I can also create web and mobile applications.
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Flutter project
 
-**Server:** Node, Express, Axios, Nodemailer
+🧠 I'm currently learning Flutter, dart, Typescript and Node
 
+💬 Ask me about anything
 
-## Authors
+📫 How to reach me przemek2142@gmail.com
 
-- [@malzagic](https://www.github.com/malzagic)
-
-https://portfolio-423l.vercel.app/
