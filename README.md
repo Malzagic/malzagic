@@ -8,7 +8,7 @@ ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, HTML, TailwindCSS, Bootstrap, S
 Flutter and dart
 ## 🚀 About Me
 I am fullstack developer. I can create visible, usable and more interactive website with attractive animations. I can also create web and mobile applications.
-## Other Common Github Profile Sections
+## How about me?
 👩‍💻 I'm currently working on Flutter project
 
 🧠 I'm currently learning Flutter, dart, Typescript and Node
