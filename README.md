@@ -11,7 +11,7 @@ I am fullstack developer. I can create visible, usable and more interactive webs
 ## How about me?
 👩‍💻 I'm currently working on Flutter project
 
-🧠 I'm currently learning Flutter, dart, Typescript and Node
+🧠 I'm currently learning Flutter, Dart, Typescript and Node
 
 💬 Ask me about anything
 
