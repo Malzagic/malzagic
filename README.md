@@ -9,7 +9,7 @@ Flutter and dart
 ## 🚀 About Me
 I am fullstack developer. I can create visible, usable and more interactive website with attractive animations. I can also create web and mobile applications.
 ## How about me?
-👩‍💻 I'm currently working on Flutter project
+👩‍💻 I'm currently working on NodeJS/ExpressJS and Database
 
 🧠 I'm currently learning Node, Express, Nginx
 
