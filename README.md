@@ -3,7 +3,7 @@
 
 
 ## 🛠 Skills
-ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
+ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, Python, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
 
 ## 🚀 About Me
 I am fullstack developer. I can create visible, usable and more interactive website with attractive animations.
