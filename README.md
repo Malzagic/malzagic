@@ -1,6 +1,7 @@
 
 # Hi, I'm Przemek! 👋
 I am study a CyberSecurity at Higher School of Vocational Education.
+Here: [Study online](https://studia-online.pl/)
 
 ## 🛠 Skills
 ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, Python, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
