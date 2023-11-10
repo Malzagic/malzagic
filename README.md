@@ -1,6 +1,6 @@
 
 # Hi, I'm Przemek! 👋
-I am studying Cybersecurity at the Higher Vocational School in Wrocław, majoring in internal security.
+I am studying Cybersecurity at the Higher Vocational School in Wroclaw, majoring in internal security.
 Here: [Study online](https://studia-online.pl/)
 
 ## 🛠 Skills
