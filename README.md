@@ -12,7 +12,7 @@ I am fullstack developer. I can create visible, usable and more interactive webs
 ## How about me?
 👩‍💻 I'm currently working on NodeJS/ExpressJS and Database
 
-🧠 I'm currently learning Node, Express, Nginx, Linux, Networking, Cybersecurity
+🧠 I'm currently learning TypeScript, Node, Express, Nginx, Linux, Networking, Cybersecurity
 
 💬 Ask me about anything
 
