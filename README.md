@@ -4,15 +4,15 @@ I am studying Cybersecurity at the Higher Vocational School in Wroclaw, majoring
 Here: [Study online](https://studia-online.pl/)
 
 ## 🛠 Skills
-ReactJS, NodeJS, ExpressJS, MongoDB, Javascript, Python, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
+NextJS, ReactJS, NodeJS, ExpressJS, MongoDB, SQL Lite, Javascript, Python, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
 
 ## 🚀 About Me
 I am fullstack developer. I can create visible, usable and more interactive website with attractive animations.
 
 ## How about me?
-👩‍💻 I'm currently working on NodeJS/ExpressJS and Database
+👩‍💻 I'm currently working on NextJS, ElectronJS and Database
 
-🧠 I'm currently learning TypeScript, Node, Express, Nginx, Linux, Networking, Cybersecurity
+🧠 I'm currently learning TypeScript, NextJS, Nginx, Linux, Kali linux, Networking, Cybersecurity
 
 💬 Ask me about anything
 
