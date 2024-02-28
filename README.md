@@ -10,7 +10,7 @@ NextJS, ReactJS, React Native, NodeJS, ExpressJS, MongoDB, SQL Lite, Javascript,
 I am fullstack developer. I can create visible, usable and more interactive website with attractive animations.
 
 ## How about me?
-👩‍💻 I'm currently working on NextJS, ElectronJS and Database
+👩‍💻 I'm currently working on NextJS, React Native and Database
 
 🧠 I'm currently learning TypeScript, NextJS, React Native, Nginx, Linux, Kali linux, Networking, Cybersecurity
 
