@@ -1,18 +1,31 @@
 
 # Hi, I'm Przemek! 👋
-I am studying Cybersecurity at the Higher Vocational School in Wroclaw, majoring in internal security.
-Here: [Study online](https://studia-online.pl/)
 
 ## 🛠 Skills
-NextJS, ReactJS, React Native, NodeJS, ExpressJS, MongoDB, SQL Lite, Javascript, Python, HTML, TailwindCSS, Bootstrap, SCSS, CSS...
+  - ReactJS,
+  - NextJS,
+  - React Native,
+  - NodeJS,
+  - ExpressJS,
+  - MongoDB,
+  - SQL Lite,
+  - Javascript,
+  - Python,
+  - HTML,
+  - TailwindCSS,
+  - Bootstrap,
+  - SCSS,
+  - CSS...
+  - Strapi
+  - Wordpress
 
 ## 🚀 About Me
 I am fullstack developer. I can create visible, usable and more interactive website with attractive animations.
 
 ## How about me?
-👩‍💻 I'm currently working on NextJS, React Native and Database
+👩‍💻 I'm currently working on React, React Native and Database.
 
-🧠 I'm currently learning TypeScript, NextJS, React Native, Nginx, Linux, Kali linux, Networking, Cybersecurity
+🧠 I'm currently learning TypeScript, NextJS, React Native, Nginx, Linux, ElectronJS
 
 💬 Ask me about anything
 
